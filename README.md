@@ -3,7 +3,7 @@
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
 
-![ReactJS Resume Website Template](Screen Shot 2020-09-08 at 10.13.59 AM.png?raw=true "ReactJS Resume Website Template")
+Screen Shot 2020-09-08 at 10.13.59 AM.png?raw=true "ReactJS Resume Website Template")
 
 
 ## Description
