@@ -3,8 +3,8 @@
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
 
-Screen Shot 2020-09-08 at 10.13.59 AM.png
 
+<img src="Screen Shot 2020-09-08 at 10.13.59 AM.png" alt="Webpage Display">
 
 ## Description
 This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
