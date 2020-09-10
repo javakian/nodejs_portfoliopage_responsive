@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "James L. Avakian",
+    "occupation": "ReactJS Developer at Optical Automation",
+    "description": "Software Developer by Day, Founder, and Freelancer by Night",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is James, I'm a Full Stack ReactJS Developer. Currently I'm working at Optical Automation developing applications. I enhance, integrate and support for MEAN, MERN, with MongoDB-Atlas, and MySQL database websites for Web Production. Perform all functions across the entire software development lifecycle: requirements gathering, detailed analysis, design, coding, testing, deployment, and production support. Experience with MEAN Angular, MERN Bootstrap, and VueJS Full Stack front-end ReactJS and NodeJS back- end development for B2B and B2C environments. Able to create api and RESTful Service database access. Strong knowledge of compatibility and cross-browser issues regarding Responsive Web Design for computer and mobile user experience from a web browser. Able to move from quickly from draft mockups into various web languages. Practical knowledge in HTML CSS, and Jquery. Background in supporting the technical needs of sites of high volume websites, apps, and integrations. Hands-on experience with server-side languages - A real passion for the end-to-end solutions that drive the user experience and customer satisfaction.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "javakian1@gmailcom",
+    "phone": "+1 818 927 9473",
+    "address": {
+      "street": "",
+      "city": "Tarzana",
+      "state": "CA",
+      "zip": "91356"
+    },
+    "website": "http://www.JamesAvakian.com",
+    "resumedownload": "https://www.linkedin.com/in/james-l-avakian-13500713/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/james.avakian.9",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/james-l-avakian-13500713/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.pinterest.com/jamesavakian/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/javakian",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full Stack technology skillset",
+    "education": [
+      {
+        "school": "California Polytechnic State University, San Luis Obispo, CA",
+        "degree": "Electronics Engineering Technology, BSET",
+        "graduated": "June 1986",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Optical Automation, LLC",
+        "title": "Lead Software Full Stack ReactJS Specialist",
+        "years": "January 2013 - Present",
+        "description": "Developing Website Database Networks to everyone."
+      }
+ 
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Good Kid.",
+        "user": "Parents"
+      },
+      {
+        "text": "On time and does all work required daily! ",
+        "user": "Manager"
+      }
+    ]
+  }
+}
